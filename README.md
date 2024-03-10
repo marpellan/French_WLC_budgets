@@ -7,7 +7,7 @@ Repository to store the files associated with the calculation of operational and
 - National energy balance is given by the SDES @ (https://www.statistiques.developpement-durable.gouv.fr/bilan-energetique-de-la-france-pour-2021)
 - The detail of electricity by usage is given by RTE @ (https://rte-futursenergetiques2050.com/)
 - Base Carbone is given by ADEME @ (https://base-empreinte.ademe.fr/)
-
+- F-Gases GHGE are from the national inventory given by CITEPA @ (https://www.citepa.org/fr/telechargements/)
 
 ### Embodied GHGE calculation
 
